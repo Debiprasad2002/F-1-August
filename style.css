@@ -1,0 +1,55 @@
+* {
+  margin: 5px;
+  padding: 5px;
+}
+
+.header {
+  width: 1643px;
+  height: 661px;
+  top: 47px;
+  left: 38px;
+  color: #000;
+  font-family: Inter;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+.Heading {
+  color: #000;
+  font-family: Inter;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+.Image {
+    color: #000;
+    font-family: Inter;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+.Trivia{
+    color: #000;
+    font-family: Inter;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+.Text-trivia{
+    color: #000;
+    font-family: Inter;
+    line-height: normal;
+    text-decoration-line: underline;
+
+}
+.more-image{
+    margin-left: 0px;
+}
+.read-more{
+    color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
